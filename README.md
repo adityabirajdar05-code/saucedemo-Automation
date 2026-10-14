@@ -28,8 +28,6 @@ The following end‑to‑end workflow is automated:
 
 [//]: # (## 🧪 SauceDemo Automation Project)
 
-[//]: # ()
-[//]: # ([👉 View this project on GitHub]&#40;https://github.com/ChamathLahiru-CL/SauceDemo_AutomationPlan&#41;)
 
 [//]: # ()
 [//]: # (This is a Java-based Test Automation Framework for testing the [SauceDemo]&#40;https://www.saucedemo.com/&#41; web application...)
@@ -105,7 +103,7 @@ The following end‑to‑end workflow is automated:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ChamathLahiru-CL/SauceDemo_AutomationPlan.git
+   git clone https://github.com/adityabirajdar05-code/saucedemo-Automation
 2. **Navigate to the project**
     ```bash
    cd SauceDemo_AutomationPlan
@@ -216,16 +214,10 @@ As part of the assignment, multiple AI‑powered QA tools were researched:
 - Limited control for advanced test logic
 
 ---
-## Useful Links
 
-- **Google Drive (Video, Slides, Reports):**  `https://drive.google.com/drive/folders/1s8qBxuFlaCtfbQic31GuN8AtE3-N6Nrv?usp=drive_link`
-- **GitHub Repository:** `https://github.com/ChamathLahiru-CL/SauceDemo_AutomationPlan`
-- **GitHub Profile:** `https://github.com/ChamathLahiru-CL`
-- **LinkedIn Profile:** `https://www.linkedin.com/in/lahiru-jayasuriya`
----
 ## Author Info
 
- **Lahiru Jayasuriya**  
+ **Aditya Birajdar**  
 Tested and implemented as part of QA automation learning project.
 
 ---
